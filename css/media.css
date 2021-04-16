@@ -120,6 +120,10 @@
     .header_title{
         font-size: 50px;
     }
+    .header_txt{
+        font-size: 17px;
+        margin-top: 15px;
+    }
     .footer_list{
         display: flex;
         flex-direction: column;
