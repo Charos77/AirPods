@@ -123,6 +123,7 @@
     .header_txt{
         font-size: 17px;
         margin-top: 15px;
+        padding: 6px 10px;
     }
     .footer_list{
         display: flex;
